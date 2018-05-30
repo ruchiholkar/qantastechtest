@@ -1,3 +1,4 @@
+@WebTests
 Feature:  Populate the field values in QFF program
 
   Scenario Outline: Sign up for QFF Program(without submitting)
